@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pos-master-v11-offline';
+const CACHE_NAME = 'pos-master-v12-offline';
 const ASSETS = [
   './',
   './index.html',
